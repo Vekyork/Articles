@@ -12,8 +12,8 @@ public class ArticleRepositoryImpl implements ArticleRepository {
         ArrayList<Article> result = new ArrayList<>();
 
         result.add(new Article(R.string.first, R.drawable.first));
-        result.add(new Article(R.string.third, R.drawable.third));
         result.add(new Article(R.string.second, R.drawable.second));
+        result.add(new Article(R.string.third, R.drawable.third));
         return result;
     }
 }
