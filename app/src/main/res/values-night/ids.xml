@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="articles_list_fragment" type="id">16dp</item>
+    <item name="articles_details_fragment" type="id">16dp</item>
+</resources>
